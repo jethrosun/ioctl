@@ -8,8 +8,8 @@ repository = "https://github.com/cmr/ioctl"
 documentation = "https://cmr.github.io/ioctl"
 
 [dependencies]
-bitflags = "*"
-libc = "*"
+bitflags = "1.0.4"
+libc = "0.2.17"
 
 [features]
 unstable = []
